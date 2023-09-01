@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @monlaoi002
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Programming at school
 - 💞️ I’m looking to collaborate on Making a profitable app.
 - 📫 How to reach me monstercpp@gmail.com/@monlaoi002(Instagram)
 
